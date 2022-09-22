@@ -1,0 +1,38 @@
+body{
+    background-color:#7d4f50;
+    text-align: center;
+    color: #fefae0;
+}
+
+table{
+    background-color:#aa998f;
+    color: #131211;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 15px;
+    border-color: #fefae0;
+}
+thead{
+    background-color: #756c67;
+    color: #fff;
+    font-size: 24px;
+    font-weight: 800;
+}
+a{
+    float: right;
+    color: #fefae0;
+    margin: 5px;
+    text-decoration: none;
+}
+.clr{
+    clear: both;
+}
+
+a:hover{
+    color: #d1cdb7;
+}
+
+h1{
+    font-size: 40px;
+    font-weight: 900;
+}

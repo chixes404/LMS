@@ -1,0 +1,11 @@
+a{
+  font-weight: normal;
+  font-size: 17px;
+  color: #ffffff;
+  float: right;
+margin: 10px;
+text-decoration: none;
+}
+.clr{
+  clear: both;
+}
