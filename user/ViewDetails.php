@@ -19,7 +19,7 @@ $ID=$_GET['id'];
         <strong><a href="../user/index.php">HOME</a></strong>
         <strong><a href="../admin/login.php">ADMIN</a></strong>
         <div class="clr"></div>
-        <h1><center>Manage Books</center></h1>
+        <h1><center>Book Details</center></h1>
        
         
         <table border="2"  class="center"  style="text-align : center"  cellpadding="40" cellspacing="1">
