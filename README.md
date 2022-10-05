@@ -1,4 +1,4 @@
-# Simple_LMS
+# Simple_LMS (ITI SUMMER TRAINING)
 simple library management system by html , css , php , mysql 
 ,
 project demo :
